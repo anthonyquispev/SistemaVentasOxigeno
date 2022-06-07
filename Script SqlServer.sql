@@ -1,0 +1,20 @@
+CREATE DATABASE BD_ADA01;
+
+USE BD_ADA01;
+
+CREATE TABLE Tarjeta(
+	idTarjeta varchar(16) NOT NULL,
+    saldo float NOT NULL,
+    PRIMARY KEY (idTarjeta)    
+);
+
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('4444555511112222', 9000.41)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('9988776655443322', 10000)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('1111222233334444', 2870.145)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('2222888833334444', 8700)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('3333222233334444', 1000)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('4444222233335555', 390.1)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('5555222233334444', 20)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('6666222233334444', 40000)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('7777222233334444', 1000)
+INSERT INTO Tarjeta (idTarjeta, saldo) VALUES ('8888222233334444', 0)
