@@ -2,7 +2,6 @@ package Colecciones;
 
 import Clases.NodoPedido;
 import Clases.Pedido;
-import Clases.Sistema;
 import java.io.Serializable;
 
 public class ColaPedidos implements Serializable{

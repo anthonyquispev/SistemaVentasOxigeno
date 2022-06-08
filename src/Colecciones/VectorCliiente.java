@@ -1,17 +1,14 @@
 package Colecciones;
 
 import Clases.Cliente;
-import Clases.NodoPedido;
 import java.io.Serializable;
 import java.util.Vector;
 
 public class VectorCliiente implements Serializable {
     //Atributos
-
-    // public ArrayList<Cliente> Client = new ArrayList<Cliente>();
     private Vector<Cliente> Client = new Vector<Cliente>();
+    
     //Constructor
-
     public VectorCliiente() {
         this.Client = new Vector<>();
     }
