@@ -8,7 +8,7 @@ Ciclo V 2020 - UNMSM - Proyecto final del curso "Diseño y Análisis de Algoritm
 La idea es reducir una multiplicación de dos números grandes en sumas y multiplicaciones con menores cantidades de cifras. En este caso se utilizó para calcular el monto total a partir de las cantidades de balones pedidos y sus precios respectivos.
 
 * Ordenamiento por Selección Directa\
-Para el orden de pedidos del usuario se utilizó el método de Orden por Selección Directa, el cual primero convierte la lista de pedidos a un arreglo, y luego se ordena por monto o por cantidad.
+Para el orden de pedidos del usuario se utilizó el método de Orden por Selección Directa, el cual primero convierte la lista de pedidos a un arreglo, y luego se ordena por monto o cantidad.
 
 * Algoritmo Floyd-Warshall\
 Se utilizó este algoritmo para determinar la menor ruta posible entre dos distritos.
