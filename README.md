@@ -22,8 +22,8 @@ Se utilizó este algoritmo para determinar la menor ruta posible entre dos distr
 
 * **Algoritmos Voraces**
   * Con cantidades ilimitadas:\
-  Se asume que el cliente paga un pedido con la cantidad de saldo que hay en su tarjeta. Luego, se le brinda un vuelto dependiendo del monto a pagar y su saldo.
-  
+  Al momento de realizar un pedido, se asume que el cliente paga con la cantidad de saldo que existe en su tarjeta; luego, se le brinda un vuelto dependiendo del monto a pagar y de su saldo.
+
   * Con cantidades limitadas:\
   Mediante los JSpinner se pueden agregar o disminuir cantidades de billetes o monedas de cualquier valor, luego ingresamos un dinero recibido y un monto a cobrar, con lo cual se genera un vuelto con la menor cantidad de billetes o monedas posibles.
 
