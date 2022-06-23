@@ -1,4 +1,4 @@
-# **Sistema de Venta de Oxígeno**
+# **Sistema Venta de Oxígeno**
 
 <div align="center">
 
