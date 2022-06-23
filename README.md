@@ -1,6 +1,13 @@
-# **SistemaVentasOxigeno**
+# **Sistema de Venta de Oxígeno**
 
-Ciclo V 2020 - UNMSM - Proyecto final del curso "Diseño y Análisis de Algoritmos"
+<div align="center">
+
+|Licencia|Lenguaje|Ciclo|Curso|
+|:--:|:--:|:--:|:--:|
+|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-java-blue.svg)](https://dev.java/learn/getting-started-with-java/)|![Ciclo](https://img.shields.io/badge/V-2020-green.svg)|![Diseño y Análisis de Algoritmos](https://img.shields.io/badge/Diseño_y_Análisis_de_Algoritmos-blueviolet.svg)
+
+</div>
+
 
 ## Algoritmos utilizados
 
@@ -20,43 +27,46 @@ Se utilizó este algoritmo para determinar la menor ruta posible entre dos distr
 ## Capturas
 
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/MenuPrincipal.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/MenuPrincipal.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/AlgoritmoVoraz_01.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/AlgoritmoVoraz_01.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/AlgoritmoVoraz_02.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/AlgoritmoVoraz_02.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/VincularTarjeta_02.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/VincularTarjeta_02.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/RealizarPedido_01.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/RealizarPedido_01.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/RealizarPedido_02.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/RealizarPedido_02.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/TablaTarjeta_01.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/TablaTarjeta_01.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/TablaTarjeta_02.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/TablaTarjeta_02.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/Rutas_03.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/Rutas_03.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/BuscarPersonas.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/BuscarPersonas.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/ColaPedidos.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/SistemaVentasOxigeno/blob/master/capturas/ColaPedidos.PNG">
 </p>
 
 ## Profesor
+
 * Espinoza Domínguez, Robert Elías
 
+
 ## Integrantes
+
 * Acuña Anampa, Britney Jennifer
 * Choquehuanca Rosas, Hans Anthony
 * Molina Yupanqui, Flor Giannina
