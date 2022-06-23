@@ -11,18 +11,21 @@
 
 ## Algoritmos utilizados
 
-* Multiplicación de números enteros grandes\
+* **Multiplicación de números enteros grandes**\
 La idea es reducir una multiplicación de dos números grandes en sumas y multiplicaciones con menores cantidades de cifras. En este caso se utilizó para calcular el monto total a partir de las cantidades de balones pedidos y sus precios respectivos.
 
-* Ordenamiento por Selección Directa\
+* **Ordenamiento por Selección Directa**\
 Para el orden de pedidos del usuario se utilizó el método de Orden por Selección Directa, el cual primero convierte la lista de pedidos a un arreglo, y luego se ordena por monto o cantidad.
 
-* Algoritmo Floyd-Warshall\
+* **Algoritmo Floyd-Warshall**\
 Se utilizó este algoritmo para determinar la menor ruta posible entre dos distritos.
 
-* Algoritmos Voraces
-  * Con cantidades ilimitadas: Se asume que el cliente paga un pedido con la cantidad de saldo que hay en su tarjeta. Luego, se le brinda un vuelto dependiendo del monto a pagar y su saldo.
-  * Con cantidades limitadas: Mediante los JSpinner se pueden agregar o disminuir cantidades de billetes o monedas de cualquier valor, luego ingresamos un dinero recibido y un monto a cobrar, con lo cual se genera un vuelto con la menor cantidad de billetes o monedas posibles.
+* **Algoritmos Voraces**
+  * Con cantidades ilimitadas:\
+  Se asume que el cliente paga un pedido con la cantidad de saldo que hay en su tarjeta. Luego, se le brinda un vuelto dependiendo del monto a pagar y su saldo.
+  
+  * Con cantidades limitadas:\
+  Mediante los JSpinner se pueden agregar o disminuir cantidades de billetes o monedas de cualquier valor, luego ingresamos un dinero recibido y un monto a cobrar, con lo cual se genera un vuelto con la menor cantidad de billetes o monedas posibles.
 
 ## Capturas
 
